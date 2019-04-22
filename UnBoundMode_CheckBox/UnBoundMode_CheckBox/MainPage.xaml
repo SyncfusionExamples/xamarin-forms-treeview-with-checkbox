@@ -36,7 +36,7 @@
                                 </treeviewengine:TreeViewNode>
                             </treeviewengine:TreeViewNode.ChildNodes>
                         </treeviewengine:TreeViewNode>
-                        <treeviewengine:TreeViewNode Content="New South Wales">
+                        <treeviewengine:TreeViewNode Content="New South Wales" IsChecked="True">
                             <treeviewengine:TreeViewNode.ChildNodes>
                                 <treeviewengine:TreeViewNode Content="Sydney"/>
                                 <treeviewengine:TreeViewNode Content="New York">
@@ -47,7 +47,7 @@
 
                             </treeviewengine:TreeViewNode.ChildNodes>
                         </treeviewengine:TreeViewNode>
-                        <treeviewengine:TreeViewNode Content="United States of America">
+                        <treeviewengine:TreeViewNode Content="United States of America" IsChecked="True">
                             <treeviewengine:TreeViewNode.ChildNodes>
                                 <treeviewengine:TreeViewNode Content="New York">
                                     <treeviewengine:TreeViewNode.ChildNodes>
